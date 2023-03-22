@@ -6,3 +6,6 @@ Two SEEED sensors, grove dust monitor and the air quality sensor tell us the lev
 An BME 280 sensor delivers to us real time temperature, humidity, and pressure levels. 
 All information is displayed on a OLED screen for quick look at room data.
 Room conditions and soil moisture level are also integrated into a user friendly Adafruit.IO dashboard that gives a dynamic visual representation of separate data feeds.
+Link to Hackster Project https://www.hackster.io/JamesRBlack/calm-station-self-watering-plant-system-1fe39b
+SUB.FM live dj stream everyother sunday 10 am MDT
+
